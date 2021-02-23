@@ -25,7 +25,7 @@ SECRET_KEY = 'l$5_@oc3lz1s!4e)q=oe@-s@)5y7_iehq)duqt68pguuml8$ic'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['*']
+ALLOWED_HOSTS = ['mycrudproject.herokuapp.com','127.0.0.1']
 
 
 # Application definition
